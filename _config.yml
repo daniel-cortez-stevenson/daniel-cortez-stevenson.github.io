@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: YAGHIOS (yet another Github io site) 4 Daniel
+title: "Daniel's YAGHIOS (yet another Github io site)"
 
 # Short description of your site
 description: Some gems and a lot of junk.
@@ -40,9 +40,9 @@ social-network-links:
   email: "daniel@jyde.io"
   github: daniel-cortez-stevenson
   twitter: realDanCortez
-  rss: true
+  rss: false
 #  reddit: yourname
- linkedin: daniel-c-stevenson
+  linkedin: daniel-c-stevenson
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -54,7 +54,7 @@ social-network-links:
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
-#  calendly: yourname
+  calendly: danielstevenson
 
 # --- General options --- #
 
