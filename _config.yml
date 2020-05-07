@@ -12,7 +12,7 @@ author: Daniel Cortez Stevenson
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Data Engineer & Entrepreneur"
+  About Me: "aboutme"
   Open Source Projects:
     - cookiecutter-pyspark-cloud: "https://daniel-cortez-stevenson.github.io/cookiecutter-pyspark-cloud"
   Company Site: "https://jyde.io"
