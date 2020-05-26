@@ -14,7 +14,7 @@ Ultimately, I've pursued a career in data because it provides a fun & up-tempo r
 
 I've worked with data in the context of consultancies, early-stage startups, hospitals, academia, and even a few military sites. If I have to choose, the consultancy experience has probably been the most challenging and rewarding. The common denominator is individuality. It's humbling to learn something new from each `fresh` new scenario - you don't know what you don't know. 
 
-The `perspective` that I bring (at [jyde](https://jyde.io) is open, interested, and curious. With that, the engineering comes organically. When designing and implementing data products, I value both innovation and practicality. Cookiecutters only get you from 'nothing' to 'something'. In order to make a meaningful impact, you've got to adapt and iterate - until the rest are adapting to you.
+The `perspective` that I bring at [jyde](https://jyde.io) is open, interested, and curious. With that, the engineering comes organically. When designing and implementing data products, I value both innovation and practicality. Cookiecutters only get you from 'nothing' to 'something'. In order to make a meaningful impact, you've got to adapt and iterate - until the rest are adapting to you.
 
 ### Skills 
 
