@@ -29,8 +29,8 @@ That's all I got.
 
 Daniel
 
---
+```
 Daniel Cortez Stevenson
 Data Engineer & Managing Partner at jyde LLC
-May 25th 2020
-
+June 4th 2020
+```
